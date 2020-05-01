@@ -1,4 +1,4 @@
-## GDELT China China Subset Query Service
+## GDELT China Subset Query Service
 
 Provides a collection of endpoints that gives access to static aggregate data and customizable queries for the subset of GDELT related to China.
 
@@ -13,9 +13,9 @@ Provides a collection of endpoints that gives access to static aggregate data an
 
 **Clone repository**
 
-*HTTPS* `git clone https://gitlab.nps.edu/dsag/csumb-capstone-spring-ay-2020.git`
+*HTTPS* `git clone https://github.com/Samwest5/gdelt-china-capstone.git`
  
-*SSH* `git clone git@gitlab.nps.edu:dsag/csumb-capstone-spring-ay-2020.git`
+*SSH* `git clone git@github.com:Samwest5/gdelt-china-capstone.git`
 
 **Install dependencies**
 
